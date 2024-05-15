@@ -1,4 +1,8 @@
 DonneeA
 DonneeBBB
 DonneeC
+<<<<<<< HEAD
 DonneeD
+=======
+DonneeE
+>>>>>>> feature
